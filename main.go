@@ -4,6 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"time"
+
 	log "zerolog-sinks-elasticsearch/eslogger"
 
 	"math/rand"

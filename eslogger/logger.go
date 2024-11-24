@@ -19,12 +19,6 @@ type LoggerProperty struct {
 	Key   string
 }
 
-// var appLog Logger
-
-// func GetLogger() *Logger {
-// 	return &appLog
-// }
-
 // Log is a global instance of the Logger type.
 var loggerInstance Logger
 
